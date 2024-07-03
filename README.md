@@ -1,2 +1,2 @@
 # myfirstrepository
-my first repository
+This is my first repository Developer-Ayush Tripathi
